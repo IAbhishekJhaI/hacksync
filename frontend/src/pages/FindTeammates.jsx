@@ -24,7 +24,7 @@ export default function FindTeammates() {
     {
       label: "What are your interests?",
       key: "myInterests", 
-      placeholder: "e.g. AI, Research, Business, Web Development, Mobile Apps",
+      placeholder: "e.g. AI, Research, Business, Web Development, AR/VR",
       description: "What domains or areas are you passionate about?"
     },
   ];
@@ -304,3 +304,4 @@ export default function FindTeammates() {
     </div>
   );
 }
+
